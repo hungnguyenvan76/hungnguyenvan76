@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying Computer Engineering HCMUT-VNU
 - 📫 Contact me: nguyentien3577818@gmail.com
 -->
-- 🔭 I’m currently working and studying Digital VLSI.
+- 🔭 I’m currently working and studying Logic Design.
 - 🌱 I’m currently studying Computer Engineering at HCMUT-VNU
 - 📫 Contact me: hungnguyen24095@gmail.com
