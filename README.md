@@ -13,6 +13,6 @@ Honors Program · GPA: 3.7/4.0
 | Domain | Technologies & Concepts |
 | :--- | :--- |
 | **RTL Design** | SystemVerilog, Verilog, FSM, Pipelined |
-| **Digital Architecture** | SoC, Cache Subsystem, On-Chip Interconnect |
+| **Cryptographic Algorithms** | AES, ASCON, Dilithium |
 | **Bus Protocols** | AXI4, AXI4-Lite, AXI4-Stream |
 | **EDA Tools** | Vivado|
